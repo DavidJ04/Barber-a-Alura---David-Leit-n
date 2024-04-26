@@ -1,0 +1,74 @@
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.p_contact{
+    margin-left: 13px;
+    margin-top: 20px;
+}
+
+form{
+    margin: 40px 0;
+}
+
+.form-pruebas, label{
+    display: block;
+    padding: 15px 15px 15px;
+    font-size: 30px;
+}
+
+.form-pruebas .input_container{
+    display: block;
+    padding: 10px 25px;
+    margin: 0 0 20px;
+    margin-top: 10px;
+    width: 40%;
+}
+
+#messaje_input{
+    padding: 10px 25px;
+    margin: 13px;
+}
+
+#input_checkbox{
+    display: inline;
+    margin: 40px 0px 40px 12px;
+    padding-top: 30px;
+}
+
+#radio_input{
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+
+.button{
+    margin: 1%;
+    font-size: larger;
+    font-family: cursive;
+    background-color: orange;
+    border: solid rgb(46, 32, 5);
+    cursor: pointer;
+    transition: 1s;
+}
+
+.button:hover{
+    background: red;
+    transform: scale(1.2);
+}
+
+table{
+    margin: 40px 40px;
+}
+
+thead{
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th{
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}
+
